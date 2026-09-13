@@ -565,3 +565,7 @@ The author can be reached at green@moxielogic.com.
 To subscribe/unsubscribe to our mailing lists, visit:
 https://sourceware.org/mailman/listinfo/libffi-announce
 https://sourceware.org/mailman/listinfo/libffi-discuss
+
+## Reproducible platform builds
+
+See [glibc, musl and macOS build instructions](README.build.md) for pinned source revisions, exact scripts, tool requirements, local commands, CI reproduction and platform support boundaries.
